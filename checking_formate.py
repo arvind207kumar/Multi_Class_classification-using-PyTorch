@@ -4,7 +4,7 @@ try:
     with open('pytorch_multiclass_classification.ipynb', 'r', encoding='utf-8') as f:
         nb = nbformat.read(f, as_version=4)
     
-    with open('repaired_notebook.ipynb', 'w', encoding='utf-8') as f:
+    with open('repaired_pytorch_multiclass_classification.ipynb', 'w', encoding='utf-8') as f:
         nbformat.write(nb, f)
     
     print("Notebook repaired successfully!")
