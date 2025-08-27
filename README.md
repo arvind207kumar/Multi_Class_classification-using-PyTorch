@@ -47,6 +47,6 @@ The goal is to classify structured tabular data into multiple categories using a
    ```bash
    git clone https://github.com/arvind207kumar/Multi_Class_classification-using-PyTorch.git
    cd Multi_Class_classification-using-PyTorch
-   
+   ```
 2. **Install dependencies**:
    pip install -r requirement.txt
